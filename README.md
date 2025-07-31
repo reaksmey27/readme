@@ -6,3 +6,8 @@
 ` npm install`
 
 `pip install`
+
+### To do
+- [ ] Home page
+- [ ] About page
+- [x] Service page
