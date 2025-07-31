@@ -13,4 +13,4 @@
 - [x] Service page
 
 ### Screenshot 
-! [Dasboard] (dashboard.png)
+! [Dasboard] (Screenshot_Dashboard.png)
