@@ -31,3 +31,18 @@ Order list
 1. one
 2. two
 3. three
+
+### Text style
+**Bold**
+
+*Itail*
+
+~~delete text~~
+
+### Block quote
+> Hello world
+
+### Table
+|id |name |age |
+|---|----|----|
+|01 |smey| 18|
