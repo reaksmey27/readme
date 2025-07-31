@@ -18,3 +18,16 @@
 
 ### Link
 CSS Framework [Tailwindcss](https://tailwindcss.com)
+
+### List
+Unorder List
+- one 
+- two
+- three
+    - other sub list
+    - four
+---
+Order list
+1. one
+2. two
+3. three
